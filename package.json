@@ -1,5 +1,5 @@
 {
-  "name": "gcd-calculator",
+  "name": "devops68-gcd-calculator",
   "version": "1.0.0",
   "description": "API to calculate Greatest Common Divisor",
   "main": "index.js",
